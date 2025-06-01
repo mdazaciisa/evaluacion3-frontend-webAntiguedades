@@ -1,4 +1,4 @@
-import { Typography, Box, Card, CardContent, CardMedia, Grid, CircularProgress, Container, useTheme } from "@mui/material";
+import { Typography, Box, Card, CardContent, CardMedia, Grid, CircularProgress, Container, useTheme, Button } from "@mui/material";
 import axios from "axios";
 import React, { useEffect, useState } from "react";
 
@@ -133,6 +133,19 @@ export default function ProductsSection() {
                                             </Typography>
                                         )}
                                     </Box>
+                                    <Button variant="contained" href="#contacto" 
+                                        sx={{
+                                            backgroundColor: '#A37774',
+                                            color: 'white',
+                                            mt: 2,
+                                            '&:hover': {
+                                                backgroundColor: '#C70039' ,
+                                            }
+                                        }}
+                                        fullWidth
+                                    >
+                                        Contáctanos
+                                    </Button>
                                 </CardContent>
                             </Card>
                         </Grid>
