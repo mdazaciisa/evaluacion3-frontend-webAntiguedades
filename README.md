@@ -1,5 +1,9 @@
 # evaluacion3-frontend-webAntiguedades# Antigüedades Sthandier - Página Web Informativa
 
+## Repositorio de Github del proyecto
+
+https://github.com/mdazaciisa/evaluacion3-frontend-webAntiguedades
+
 ## Descripción del proyecto
 
 Este proyecto surge para apoyar a emprendedoras de la zona de Zapallar que no cuentan con presencia digital. En particular, se desarrolló una landing page para **Antigüedades Sthandier**, un emprendimiento especializado en la venta de antigüedades vintage. 
@@ -29,9 +33,8 @@ Este proyecto integra venta en línea con atención presencial, ofreciendo pieza
 
  - Uso consistente de nomenclatura en camelCase para variables y componentes.
  - Separación clara de responsabilidades: componentes, servicios API y estilos.
- - Validaciones de formularios tanto en frontend como backend.
+ - Validaciones de formularios en frontend.
  - Accesibilidad: textos alternativos en imágenes, navegación por teclado y contraste adecuado.
- - Uso de ramas y pull requests para desarrollo colaborativo.
 
 ## Contacto
 
